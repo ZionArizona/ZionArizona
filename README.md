@@ -18,8 +18,8 @@
 ---
 
 ### 안녕하세요 👋  저는 <b>권시온</b> 입니다.
-“사용자의 니즈와 요구사항을 기술로 해결하는 개발자”입니다.  
-단순 서비스 구현을 넘어 <b>사용자 니즈를 파악하고 사용자에게 필요한 서비스</b>를 만드는 데 집중합니다.  
+“사용자의 니즈와 요구사항을 기술로 해결하는 개발자”를 지향합니다.  
+단순 서비스 구현을 넘어 **사용자 니즈를 파악하고 사용자에게 필요한 서비스**를 만드는 데 집중합니다.  
 개발자로서 끊임없이 공부하며 배움을 중요하게 생각하고 오늘도 한 걸음 성장 중입니다.
 
 ---
@@ -32,9 +32,11 @@
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Lombok](https://img.shields.io/badge/Lombok-BC4B51?style=flat)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat)
@@ -55,12 +57,9 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <!-- Most Used Languages -->
-  <img src="./profile-summary-card-output/algolia/1-repos-per-language.svg" height="180" />
-  <!-- GitHub Stats (점수/PR/이슈 등) -->
-  <img src="./profile-summary-card-output/algolia/3-stats.svg" height="180" />
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ZionArizona&show_icons=true&rank_icon=github&theme=algolia" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZionArizona&layout=compact&theme=algolia" />
 </p>
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:EEF2F3,100:8E9EAB&height=120&section=footer)
