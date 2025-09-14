@@ -32,11 +32,9 @@
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Lombok](https://img.shields.io/badge/Lombok-BC4B51?style=flat)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat)
@@ -44,9 +42,9 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
 ---
 
 ## 🏅 BOJ / solved.ac
@@ -58,7 +56,7 @@
 
 ## 📊 GitHub Stats
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ZionArizona&show_icons=true&rank_icon=github&theme=algolia" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ZionArizona&show_icons=true&theme=algolia&rank_icon=default" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZionArizona&layout=compact&theme=algolia" />
 </p>
 
